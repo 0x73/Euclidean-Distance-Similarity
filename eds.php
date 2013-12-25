@@ -92,4 +92,4 @@ function sim_for_person(array $prefs, $person){
 	}
 }
 
-echo sim_for_person($critics, 'Sedat');
+sim_for_person($critics, 'Sedat');
