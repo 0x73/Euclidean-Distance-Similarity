@@ -1,6 +1,4 @@
 <?php
-
-
 $critics = array(
 	'Sedat' => array(
 		"The Matrix" => 5,
